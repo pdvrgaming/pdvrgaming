@@ -1,55 +1,98 @@
 <div align="center">
 
-<img src="profile-banner.svg" alt="PDVR Gaming — Virtual Reality Experiences &amp; Software Studio" width="100%" />
+<img src="profile-banner.svg" alt="PDVR Gaming — Virtual Reality Games, Motion Simulators &amp; Creative Development Studio" width="100%" />
 
-<br/>
+<br/><br/>
 
-[![Official Website](https://img.shields.io/badge/Official%20Website-pdvrgaming.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pdvrgaming.github.io/)
-[![MEDIC PWA](https://img.shields.io/badge/Health%20PWA-MEDIC%20App-0F766E?style=for-the-badge&logo=pwa&logoColor=white)](https://pdvrgaming.github.io/medic/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%209133020759-16A34A?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919133020759)
-[![Location](https://img.shields.io/badge/Location-Vijayawada%2C%20AP-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white)](https://pdvrgaming.github.io/)
+<img src="pdvr-avatar.png" alt="PDVR Gaming Official Brand Emblem" width="118" height="118" />
+
+# 🎮 PDVR GAMING
+### Virtual Reality Arcade · School STEM Labs · Creative Web &amp; PWA Studio
+
+[![Official Website](https://img.shields.io/badge/🌐%20Launch%20Website-pdvrgaming.github.io-FF2E93?style=for-the-badge)](https://pdvrgaming.github.io/)
+[![MEDIC Health PWA](https://img.shields.io/badge/🏥%20Health%20PWA-MEDIC%20App-06B6D4?style=for-the-badge)](https://pdvrgaming.github.io/medic/)
+[![GitHub Profile](https://img.shields.io/badge/VR%20Experiences-14%2B%20Titles%20(₹100--₹300)-8B5CF6?style=for-the-badge)](https://pdvrgaming.github.io/#/experiences)
+[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-%2B91%209133020759-10B981?style=for-the-badge)](https://wa.me/919133020759)
+[![Location](https://img.shields.io/badge/📍%20Location-Vijayawada%2C%20India-F59E0B?style=for-the-badge)](https://pdvrgaming.github.io/)
 
 </div>
 
-## 🚀 About PDVR Gaming
+---
 
-Welcome to the official GitHub home of **PDVR Gaming** — based in **Vijayawada, Andhra Pradesh, India**.
+## 🌈 Welcome to PDVR Gaming
 
-We operate commercial-grade **Virtual Reality entertainment arenas, 360° motion simulators, and curriculum-aligned School STEM VR workshops**, alongside building **fast, 100% offline-first Progressive Web Applications (PWAs)** for families and local communities.
+Based in **Vijayawada, Andhra Pradesh**, **PDVR Gaming** blends **high-octane commercial Virtual Reality entertainment** with **offline-first full-stack web & PWA engineering**:
 
-🌐 **Visit Our Website:** **[https://pdvrgaming.github.io/](https://pdvrgaming.github.io/)**
+- 🥽 **On-Site VR Arenas & Simulators:** High-refresh pancake-optic VR headsets, 360° thrill rides, boxing/cricket arenas & turnkey setups for **apartment carnivals, schools, and birthday celebrations**.
+- ⚡ **Software & PWA Studio:** Building blazing-fast, zero-cloud, installable Progressive Web Applications using **React 19, TypeScript, Tailwind CSS, IndexedDB, Web Audio API & Tesseract OCR**.
 
 ---
 
-## 🛠️ Featured Public Applications & Projects
+## 🕹️ VR Experiences & Game Catalog (`pdvrgaming.github.io`)
 
 <table width="100%">
   <thead>
     <tr>
-      <th width="28%" align="left">Project</th>
-      <th width="47%" align="left">Purpose &amp; Highlights</th>
-      <th width="25%" align="left">Live Access</th>
+      <th width="26%" align="left">Category</th>
+      <th width="50%" align="left">Featured VR Titles</th>
+      <th width="24%" align="left">Pricing / Format</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>🎮 PDVR Gaming Website</strong></td>
-      <td>Full interactive catalog of 14+ VR experiences (360° rides, action games, educational STEM), transparent pricing (₹100–₹300), and turnkey event booking showcase for Vijayawada &amp; AP.</td>
+      <td><strong>🎢 360° Adrenaline Rides</strong></td>
+      <td>Roller Coaster VR &bull; Jurassic Park &bull; Santa Ride &bull; Henry (Emmy Story)</td>
+      <td><code>₹100 – ₹150</code> · Ages 4+</td>
+    </tr>
+    <tr>
+      <td><strong>⚔️ Action &amp; Motion VR</strong></td>
+      <td>Beat Saber &bull; Iron Man VR &bull; Richie's Plank &bull; Cricket VR &bull; Boxing &bull; Horror</td>
+      <td><code>₹150</code> · Live Spectator Screen</td>
+    </tr>
+    <tr>
+      <td><strong>🔬 School STEM 3D Modules</strong></td>
+      <td>Solar System &bull; Ocean Rift &bull; NASA Mission ISS &bull; 3D Human Anatomy</td>
+      <td><code>₹300</code> · 15+ Mins Guided</td>
+    </tr>
+    <tr>
+      <td><strong>🎪 Turnkey Mobile Events</strong></td>
+      <td>Apartment Society Carnivals &bull; School Science Expos &bull; Birthday Arenas</td>
+      <td><a href="https://pdvrgaming.github.io/#/events">Get Event Quote &rarr;</a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 🚀 Featured Software & Open-Source Projects
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="27%" align="left">Application</th>
+      <th width="49%" align="left">Architecture &amp; Key Capabilities</th>
+      <th width="24%" align="left">Live Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>🎮 PDVR Gaming Platform</strong></td>
+      <td>React 19 + TypeScript + Tailwind v4 showcase with interactive category filters, control panel CMS, WhatsApp enquiry builder &amp; local Vijayawada SEO.</td>
       <td><a href="https://pdvrgaming.github.io/">Launch Site &rarr;</a></td>
     </tr>
     <tr>
       <td><strong>🏥 MEDIC Health PWA</strong></td>
-      <td>Offline-first family medicine routine tracker, monthly calendar adherence engine, 145+ PMBJP Jan Aushadhi &amp; NLEM formulations, natural Indian voice TTS, and WhatsApp refill ordering.</td>
+      <td>100% offline IndexedDB (16 stores) family medicine tracker, monthly calendar adherence streaks, 145+ PMBJP Jan Aushadhi &amp; NLEM salts, Indian accent voice TTS &amp; WhatsApp refills.</td>
       <td><a href="https://pdvrgaming.github.io/medic/">Open MEDIC &rarr;</a></td>
     </tr>
     <tr>
       <td><strong>📡 QuestCasting</strong></td>
-      <td>Browser-based Meta Quest casting &amp; session logging companion tool for smooth VR event operator monitoring.</td>
+      <td>Wireless Meta Quest browser casting &amp; session monitor for smooth public VR arena spectator displays.</td>
       <td><a href="https://pdvrgaming.github.io/questcasting/">Open Utility &rarr;</a></td>
     </tr>
     <tr>
       <td><strong>🏋️ GymMane PWA</strong></td>
-      <td>Lightweight offline-capable Progressive Web App for personal workout and gym routine tracking.</td>
+      <td>Installable offline-capable fitness &amp; workout routine web app.</td>
       <td><a href="https://pdvrgaming.github.io/GymMane/">Open App &rarr;</a></td>
     </tr>
   </tbody>
@@ -57,33 +100,29 @@ We operate commercial-grade **Virtual Reality entertainment arenas, 360° motion
 
 ---
 
-## 🥽 VR Experiences & Event Services (Vijayawada & Andhra Pradesh)
+## 🎨 Tech & Creative Stack
 
-- **🎢 360° Adrenaline Rides (`₹100`):** *Roller Coaster VR, Santa Ride, Henry, Jurassic Park*
-- **⚔️ Action & Motion VR (`₹150`):** *Beat Saber, Iron Man VR, Richie's Plank, Cricket VR, Boxing, Horror*
-- **🔬 School STEM Modules (`₹300`):** *Solar System, Ocean Rift, Mission ISS, 3D Human Anatomy*
-- **🎪 Turnkey On-Site Setups:** *Apartment Carnivals, School Science Days, Birthday Party Arenas &amp; Corporate Events*
-
----
-
-## 💻 Core Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/React%2019-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/PWA%20Offline-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
-  <img src="https://img.shields.io/badge/IndexedDB-0F766E?style=flat-square" alt="IndexedDB" />
-  <img src="https://img.shields.io/badge/Web%20Audio%20%26%20Speech-0284C7?style=flat-square" alt="Web Audio" />
+<p align="center">
+  <img src="https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React 19" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFFFFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Offline%20PWA-8B5CF6?style=for-the-badge&logo=pwa&logoColor=FFFFFF" alt="PWA" />
+  <img src="https://img.shields.io/badge/IndexedDB-10B981?style=for-the-badge" alt="IndexedDB" />
+  <img src="https://img.shields.io/badge/Meta%20Quest%20VR-EC4899?style=for-the-badge&logo=meta&logoColor=FFFFFF" alt="Meta Quest VR" />
+  <img src="https://img.shields.io/badge/Tesseract%20OCR-F59E0B?style=for-the-badge" alt="OCR" />
 </p>
 
 ---
 
-## 📬 Connect With PDVR Gaming
+## 📸 Social & Business Channels
 
-- **Website:** [https://pdvrgaming.github.io/](https://pdvrgaming.github.io/)
-- **Phone / WhatsApp:** [+91 9133020759](https://wa.me/919133020759)
-- **Email:** [gamingpdvr@gmail.com](mailto:gamingpdvr@gmail.com)
-- **Hours:** Daily `8:00 AM – 10:00 PM IST` (`Vijayawada, Andhra Pradesh, India`)
-- **Socials:** [Instagram](https://instagram.com/pdvrgaming) &bull; [Facebook](https://facebook.com/pdvrgaming) &bull; [YouTube](https://youtube.com/@pdvrgaming)
+<div align="center">
+
+| Website | WhatsApp / Bookings | Email | Instagram | YouTube | Facebook |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [pdvrgaming.github.io](https://pdvrgaming.github.io/) | [+91 9133020759](https://wa.me/919133020759) | [gamingpdvr@gmail.com](mailto:gamingpdvr@gmail.com) | [@pdvrgaming](https://instagram.com/pdvrgaming) | [@pdvrgaming](https://youtube.com/@pdvrgaming) | [@pdvrgaming](https://facebook.com/pdvrgaming) |
+
+<sub>Open Daily 8:00 AM – 10:00 PM IST · Vijayawada, Guntur, Amaravati &amp; Andhra Pradesh</sub>
+
+</div>
